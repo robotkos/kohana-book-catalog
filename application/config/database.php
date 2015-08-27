@@ -18,10 +18,10 @@ return array
 			 *
 			 * Ports and sockets may be appended to the hostname.
 			 */
-			'hostname'   => 'robotk00.mysql.ukraine.com.ua',
-			'database'   => 'robotk00_kohana',
-			'username'   => 'robotk00_kohana',
-			'password'   => 'z8pbwrha',
+			'hostname'   => '',
+			'database'   => '',
+			'username'   => '',
+			'password'   => '',
 			'persistent' => FALSE,
 		),
 		'table_prefix' => '',
