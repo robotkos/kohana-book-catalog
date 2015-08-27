@@ -1,0 +1,1 @@
+Перейдите по ссылке http://kohana.robotko.com.ua/auth/checkcode/<?=$genpass?>
